@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\YMYP1\\06.WebApi\\ITDesk\\ITDeskServer\\ITDeskServer.csproj": {}
+    "C:\\Users\\demir\\Documents\\Workspace\\ITDesk\\ITDeskServer\\ITDeskServer.csproj": {}
   },
   "projects": {
-    "C:\\YMYP1\\06.WebApi\\ITDesk\\ITDeskServer\\ITDeskServer.csproj": {
+    "C:\\Users\\demir\\Documents\\Workspace\\ITDesk\\ITDeskServer\\ITDeskServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YMYP1\\06.WebApi\\ITDesk\\ITDeskServer\\ITDeskServer.csproj",
+        "projectUniqueName": "C:\\Users\\demir\\Documents\\Workspace\\ITDesk\\ITDeskServer\\ITDeskServer.csproj",
         "projectName": "ITDeskServer",
-        "projectPath": "C:\\YMYP1\\06.WebApi\\ITDesk\\ITDeskServer\\ITDeskServer.csproj",
-        "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\YMYP1\\06.WebApi\\ITDesk\\ITDeskServer\\obj\\",
+        "projectPath": "C:\\Users\\demir\\Documents\\Workspace\\ITDesk\\ITDeskServer\\ITDeskServer.csproj",
+        "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\demir\\Documents\\Workspace\\ITDesk\\ITDeskServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\ITDeskServer",
     "\\ITDeskServer\\Controllers"
   ],
   "SelectedNode": "\\ITDeskServer\\Controllers\\AuthController.cs",
+=======
+    ""
+  ],
+  "SelectedNode": "\\ITDeskServer.sln",
+>>>>>>> 461ef934a78463dfce2e84f29b4eba7b9ca86848
   "PreviewInSolutionExplorer": false
 }
