@@ -10,17 +10,17 @@
         <div class="mt-2">           
             <p-password [(ngModel)]="request.password" placeholder="******" [inputStyle]="{width: '325px'}">
                 <ng-template pTemplate="header">
-                    <h6>Şifre girin</h6>
+                    <h6>Please Enter Password</h6>
                 </ng-template>
                 <ng-template pTemplate="footer">
                     <p-divider></p-divider>
-                    <p class="mt-2">Öneriler</p>
+                    <p class="mt-2">Suggested</p>
                     <ul class="pl-2 ml-2 mt-0" style="line-height: 1.5">
-                        <li>En az 1 büyük karakter</li>
-                        <li>En az 1 küçük karakter</li>
-                        <li>En az 1 numeratic değer</li>
-                        <li>En az 1 özel karakter</li>
-                        <li>Minimum 6 karakter</li>
+                        <li>At least 1 upper case character</li>
+                        <li>At least 1 lower case character</li>
+                        <li>At least 1 numeratic character</li>
+                        <li>At least 1 signature character</li>
+                        <li>Minimum 6 character</li>
                     </ul>
                 </ng-template>
             </p-password>
@@ -32,7 +32,7 @@
         <ng-template pTemplate="footer">            
             <p-button (onClick)="signIn()" [style]="{width:'100%'}" label="Giriş Yap" icon="pi pi-user"></p-button>                
             <div class="mt-2 text-center">
-                 -- Sosyal medya hesabınızla giriş yapın --
+                 -- Login with your social account. --
             </div>
             <div class="mt-2 flex justify-content-center">                
                 <asl-google-signin-button type='icon' size='medium'></asl-google-signin-button>        
